@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author juniv
+ *
+ */
+module areaTriangulo {
+}
